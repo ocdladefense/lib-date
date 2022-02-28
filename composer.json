@@ -1,0 +1,10 @@
+{
+    "name": "ocdladefense/lib-date",
+    "description": "Library for using Dates as types.",
+    "type": "library",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "classmap":["src/"]
+    }
+}
